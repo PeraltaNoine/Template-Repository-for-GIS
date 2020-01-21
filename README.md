@@ -1,5 +1,5 @@
 <div align="center">
-<h1><a>-Shubham Sharma, Devashis Malla, Ishita Rakholiya</a></h1>
+<h1><a>-Shubham Sharma</a></h1>
     
     
 <h1><a>Kross Creative Portfolio Template (MIT License)</a></h1>
